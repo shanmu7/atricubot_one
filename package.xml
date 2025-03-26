@@ -15,4 +15,8 @@
   <export>
     <build_type>ament_cmake</build_type>
   </export>
+  <build_depend>xacro</build_depend>
+<exec_depend>xacro</exec_depend>
 </package>
+
+
